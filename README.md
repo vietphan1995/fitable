@@ -9,4 +9,4 @@ Fitable is a table having dynamic high/length leg, this leg length has high rang
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/fitable-1db5e832d6ee809cabdfd7f3c84df4b3
+https://phantrungviet.notion.site/fitable-1db5e832d6ee809cabdfd7f3c84df4b3
